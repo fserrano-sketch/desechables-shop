@@ -47,7 +47,7 @@ export default function Header({ onCartOpen, search, onSearch }: Props) {
           </a>
 
           <a
-            href="https://wa.me/5215562814488"
+            href="https://wa.me/5215550688773"
             target="_blank"
             rel="noopener noreferrer"
             className="hidden md:flex items-center gap-1.5 text-xs text-ink-600 hover:text-ink-900 transition-colors"
